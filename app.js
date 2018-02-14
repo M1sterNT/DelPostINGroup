@@ -1,8 +1,8 @@
 var unirest = require('unirest');
 
 
-var GroupID = ""
-var Token = ""
+var GroupID = "xxx"
+var Token = "xxx"
 
 DelPostroup();
 
