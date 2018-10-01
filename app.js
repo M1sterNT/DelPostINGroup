@@ -20,7 +20,7 @@ unirest.get('https://graph.facebook.com/v2.12/'+GroupID+'/feed?access_token='+To
     })
 })
 });
-if (count > 5){
+if (count > 8){
     DelPostroup();
 }
 }
